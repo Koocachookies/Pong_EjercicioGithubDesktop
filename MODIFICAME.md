@@ -1,1 +1,5 @@
-Modifica este texto
+<<<<<<< HEAD
+Modifica no
+=======
+Modifica este textofbvadbsfbsgfn
+>>>>>>> dev
